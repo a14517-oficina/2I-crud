@@ -2,8 +2,7 @@
 ## EX.03
 
 # Olá, chamo-me Vasco Ferreira ! 
-   
-Criado por Vasco Ferreira(https://github.com/a14517-oficina)
+
 
 ## Estou a aprender
 
@@ -16,3 +15,5 @@ Criado por Vasco Ferreira(https://github.com/a14517-oficina)
    <a href="https://www.linkedin.com/in/Vasco Oliveira Ferreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>   
 </div>
 
+   
+Criado por Vasco Ferreira(https://github.com/a14517-oficina)
